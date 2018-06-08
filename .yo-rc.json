@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.silence.teano",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "4.14.4",
+    "baseName": "teanouaa",
+    "packageName": "org.silence.teano",
+    "packageFolder": "org/silence/teano",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "cb6cbf72d00ec3e8deedd23677671caf78193440",
+    "enableTranslation": true,
+    "applicationType": "uaa",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "zh-cn"
+    ],
+    "clientPackageManager": "yarn",
+    "skipClient": true
+  }
+}
